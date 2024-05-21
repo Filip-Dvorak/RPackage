@@ -3,7 +3,8 @@ Type: Package
 Title: tooltips 
 Version: 0.1.2
 Author: Borek
-Maintainer: <cezzy350@gmail.com>
+Maintainer: Borek <cezzy350@gmail.com>
 Description: Tooltips for lm and pnorm.
+License: Free of use policy.
 Encoding: UTF-8
 LazyData: true
