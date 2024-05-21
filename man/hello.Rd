@@ -270,5 +270,11 @@ Pro ověření regulérnosti hrací kostky jsme provedli 150 hodů
 3. b) chí-kvadrát rozdělení o 5 stupních volnosti
 4. a) kritický obor tvoří hodnoty vyšší nebo rovna 11,1
 5. a) hodnota testového kritéria patří do kritického oboru, a proto nulovou hypotézu nezamítáme
+
+Výrobce nákladniho automobilu předpokládá
+1)b H0: u =90, H1 u <90
+2)b -2,971
+3)c W0,05 = {t;t<=-1,761}
+4)a Nulovou hypotézu o střední hodnotě zamítáme ve prospěch altrnativná hypotézy
 }
 }

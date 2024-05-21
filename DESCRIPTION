@@ -1,7 +1,7 @@
 Package: bigStatistikaPackage
 Type: Package
 Title: tooltips 
-Version: 0.1.2
+Version: 0.1.3
 Author: Borek
 Maintainer: Borek <cezzy350@gmail.com>
 Description: Tooltips for lm and pnorm.
